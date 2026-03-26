@@ -1,3 +1,3 @@
 ## BRIEF DESCRIPTION
 
-I created this presentation to explain digital literacy in a simple and relatable way. It’s about knowing how to use technology smartly and safely in our everyday lives—using useful tools for studying, being careful online to protect our information, and communicating clearly through emails. Overall, it helps us feel more confident and responsible in the digital world.
+I made this presentation to help explain the concept of digital literacy in an easy-to-understand manner. It's all about being smart enough to use technology properly and safely in our daily lives, using tools for our studies, being cautious online for the protection of our data, and effectively communicating through emails and being responsible.
