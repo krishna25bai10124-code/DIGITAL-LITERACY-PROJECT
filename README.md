@@ -1,30 +1,41 @@
 # DIGITAL-LITERACY-PROJECT
 
-Name: Krishna Singh
+Name : Krishna Singh
 
-Registration no.: 25BAI10124
+Registation No. : 25BAI10124
 
-## PROJECT OVERVIEW
+## Project Overview :-
+This project is about creating a Digital Literacy Portfolio. The main goal is to help students understand the world and use it well. This includes making online profiles being responsible when communicating online and staying safe online.
+As a Student Digital Ambassador my job is to help peers use tools in a responsible and efficient way. I promote online behavior and encourage professional communication, create awareness about cyber security and digital ethics.
 
-This project is all about understanding digital literacy and why it matters so much in our daily lives as students. Today, almost everything we do—studying, communicating, making payments, or even socializing — happens online, so knowing how to use digital tools safely and responsibly is really important.
+The project involves doing five tasks based on parts of the course. Each task focuses on a part of digital literacy. The tasks are about coding platforms, online communication, social media responsibility, safety and case study analysis. The repository contains completed assignments, checklists, emails, forms, and reports prepared during the project. 
 
-While working on this project, I explored different aspects like safe internet practices, email etiquette, responsible use of social media, and awareness about online frauds such as UPI scams. I’ve also included a short quiz, a case study, and simple checklists to make the topic more practical and easy to understand.
+The Digital Literacy Portfolio helps college students improve their awareness. It also helps them behave online and communicate professionally online. The project helps students develop digital skills. These skills are necessary for professional and personal growth.
+The main goal of the Digital Literacy Portfolio is to help students. It helps them understand and navigate the world effectively. The project is about literacy. It includes creating online profiles. It also includes communicating and maintaining online safety and digital awareness. The project is about literacy. It helps students understand the world and they learn to use it. It helps students develop digital skills.
 
-The main idea behind this project is to spread awareness and help students become more careful and confident while using digital platforms. It shows how small habits, like thinking before clicking a link or keeping your passwords secure, can actually protect you from bigger problems.
+Overall, the Digital Literacy Portfolio helps in improving technical awareness, responsible online behavior, and professional digital communication skills among college students.
 
-Overall, this project helped me realize that digital literacy is not just about using technology, but about using it in a smart and safe way in everyday life.
+## Module Summary :-
 
-## Module Summaries
+### Module 1 :
 
-M1: The Digital Literacy course is designed to help beginners get comfortable with essential digital skills they can actually use in everyday life. It introduces tools like Canva and Prezi for creating presentations, and platforms like LinkedIn and GitHub to start building a professional online presence. It also includes using Google Workspace for teamwork, learning proper email etiquette, and understanding basic cybersecurity so users can stay safe online. Canva, especially, is very easy to use—it lets anyone create presentations, videos, posters, and more with ready-made templates, making designing feel simple and accessible even without any prior experience.
+The Digital Literacy course is designed to help beginners get comfortable with essential digital skills they can actually use in everyday life. It shows you how to use tools like Canva and Prezi to make presentations and platforms like LinkedIn and GitHub to start building a professional online presence. It also includes using Google Workspace to work together, learning how to write emails properly, and learning the basics of cybersecurity so that people can stay safe online.
 
-M2: ResearchGate, LinkedIn, GitHub, Quora, Stack Overflow, and Wiki Education are digital platforms that support learning, networking, and professional growth. ResearchGate helps researchers share publications and connect with peers. LinkedIn is used to build a professional profile and network with others. GitHub allows developers to manage and collaborate on coding projects. Quora is a platform for asking and answering questions to share knowledge. Stack Overflow supports programmers in solving coding problems and building expertise. Wiki Education helps students create and improve Wikipedia content while developing research and writing skills. Together, these platforms enhance digital presence and real-world skills. 
+### Module 2: 
 
-M3: Google Workspace is a set of simple online tools like Docs, Slides, Sheets, Forms, Gmail, and Meet that make it easy to create, share, and work together from anywhere. Docs helps with writing, Slides is great for presentations, Sheets is useful for handling data, and Forms makes collecting responses easy—all with real-time collaboration. Along with this, platforms like HackerRank, HackerEarth, CodeChef, and CodeTantra help students practice coding, improve problem-solving, and prepare for placements, each focusing on different aspects like competitions, learning, or assessments.
+ResearchGate, LinkedIn, GitHub, Stack Overflow, and Wiki Education are all online tools that help people learn, make connections, and grow in their careers. Researchers can use ResearchGate to share their work and meet other researchers. People use LinkedIn to make a professional profile and connect with other people. GitHub lets developers work together on coding projects and keep track of them. Quora is a place where people can ask and answer questions to share what they know. These platforms work together to improve both digital presence and real-world skills.
 
-M4: Email and social media etiquette are important for maintaining a professional image and clear communication in the digital world. Following proper etiquette helps improve clarity, build strong relationships, and prevent misunderstandings or ethical issues. In email communication, using clear subject lines, polite greetings, concise content, and a respectful tone is essential. Timely responses and proper use of CC and BCC also contribute to effective communication. Using correct structure and formatting makes emails easier to read and more professional. Overall, good etiquette ensures respectful, efficient, and responsible communication in academic and workplace environments.
+### Module 3: 
 
-M5: Cyber crimes are a growing risk where scammers use technology to steal money and personal information through methods like phishing and identity theft. It is important to stay alert, verify information, and protect personal data using strong passwords and safe online habits.Cyber crime investigation follows a structured process, from FIR registration to forensic analysis and reporting, ensuring proper evidence collection and legal action. This helps maintain transparency and accountability.Prevention is a shared responsibility that requires awareness and caution. By following basic safety practices and using security tools, we can reduce risks and stay safe in the digital world.
+Google Workspace is a group of easy-to-use online tools, such as Docs, Slides, Sheets, Forms, Gmail, and Meet, that let you work together, share, and create from anywhere. You can work together in real time on Docs to write, Slides to make presentations, Sheets to handle data, and Forms to make it easy to get answers.
+
+### Module 4: 
+
+In the digital world, it's important to have good email and social media manners to keep a professional image and clear communication. Following proper etiquette can help you understand things better, make friends, and avoid misunderstandings or ethical problems. When you send an email, it's important to use clear subject lines, polite greetings, short messages, and a respectful tone.
+
+### Module 5: 
+
+Cybercrimes are becoming more common. Scammers use technology to steal money and personal information through phishing and identity theft, for example. It's important to stay alert, check facts, and use strong passwords and safe online habits to protect your personal information. Cybercrime investigations follow a set process, from filing an FIR to doing forensic analysis and writing a report. This makes sure that the right evidence is collected and that the law is followed.
 
 ## LINKS
 
