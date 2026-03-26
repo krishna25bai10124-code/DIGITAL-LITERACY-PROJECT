@@ -1,23 +1,23 @@
-## Do’s :
+## Do’s :-
 
-1. Think for a moment before posting—ask yourself if it’s respectful and appropriate.
+One should always be careful before posting on socail media.
 
-2. Keep your personal information safe and only share what’s necessary.
+Use privacy and security settings for your safety.
 
-3. Double-check facts before sharing anything online.
+Always verify information before sharing and believing in them.
 
-4. Use strong passwords and adjust your privacy settings regularly.
+Be respectful and professional while communicating with strangers.
 
-5. Be kind and respectful when interacting with others, even during disagreements.
+Use social media for learning,networking and all the activities which can be beneficial for you.
 
-## Don’ts :
+## Don’ts :-
 
-1. Don’t share private details like your phone number, address, or passwords.
+Don’t share personal information and contacts.
 
-2. Don’t spread rumors or forward information without verifying it.
+Don’t spread fake news and beware of the one's sharing them.
 
-3. Don’t get involved in online arguments or cyberbullying.
+Don’t post and promote offensive content.
 
-4. Don’t overshare everything about your personal life publicly.
+Never cyberbully or troll others on social media.
 
-5. Don’t click on random or suspicious links that could harm your data.
+Don’t procastinate while surfing social media.
